@@ -6,6 +6,7 @@
 
 ```bash
 pip install openai
+```
 
 You must also go to the official website openai.com to get an API token
 
